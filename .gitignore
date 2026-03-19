@@ -1,0 +1,10 @@
+parseID# Binaries
+tasks-cli
+*.exe
+*.out
+
+# OS files
+.DS_Store
+
+# Go build cache
+/bin/
